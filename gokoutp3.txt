@@ -1,0 +1,20 @@
+27-SEP-2017 23:22:56              TSU Production (SUN)                             PAGE 1
+201810                       20th Class Day Roster/After Pu                        SWRSLST
+                   * * * REPORT CONTROL INFORMATION - SWRSLST - Release 7.3 * * *
+
+RPTNAME: SWRSLST
+TITLE: 20th Class Day Roster/After Pu
+TERM: 201810
+PART OF TERM: %
+START RANGE FROM DATE:
+START RANGE TO DATE:
+CRN: %
+NO GRADE REPORT: N
+SORT ORDER: C
+CAMPUS: %
+SCHEDULE TYPE: %
+INSTRUCTIONAL METHOD: %
+
+  -    
+START RANGE TO DATE:
+* * * REPORT CONTROL INFORMATION - SWRSLST - Release 7.3 * * *
